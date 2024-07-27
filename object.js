@@ -37,6 +37,6 @@ etudiant.forEach(x=>{
 etudiant.forEach(x=>x.printName())
 
 
-const NAME='ATCHI'
+const NAME='ATCHI ISLEM'
 age= 20
 console.log(`je suis ${NAME} et jai ${age} ans`)
